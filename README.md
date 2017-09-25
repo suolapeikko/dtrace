@@ -1,6 +1,6 @@
 # Sample Dtrace scripts for macOS
 
-Due to System Integrity Protection (SIP) in macOS, you must enable DTrace by booting into recovery mode (cmd+r), starting terminal, and either disabling SIP altogether by running csrutil disable or alternatively using experimental option csrutil enable --without dtrace (after you have first disabled SIP).
+Due to System Integrity Protection (SIP) in macOS, you must enable DTrace by booting into recovery mode (cmd+r), starting terminal, and either disabling SIP altogether by running `csrutil disable` or alternatively using experimental option `csrutil enable --without dtrace` (after you have first disabled SIP).
 
 # Scripts
 
