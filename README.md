@@ -5,7 +5,7 @@ Due to System Integrity Protection (SIP) in macOS, you must enable DTrace by boo
 # Scripts
 
 ## pidlogger
-Snoop what is written in specific bash process */
+Snoop what is written in specific bash process
 You can use `echo $$` for shell pid to find your bash window pid
 Script usage: `sudo ./pidlogger.d -p <pid>`
   
