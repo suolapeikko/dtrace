@@ -14,7 +14,7 @@ Monitor TCP SEND and RECEIVE commands
 Script usage: `sudo ./tcpsnoop.d`
 
 ## tracetrivial
-Simple example of tracing c-code (trivial.c)
+Simple example of tracing c code (trivial.c)
 Usage: `sudo dtrace -s ./tracetrivial.d -p <pid>`
 
 ## openings
