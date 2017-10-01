@@ -9,7 +9,7 @@ Snoop what is written in specific bash process
 You can use `echo $$` for shell pid to find your bash window pid
 Script usage: `sudo ./pidlogger.d -p <pid>`
   
-## tcpnoop
+## tcpsnoop
 Monitor TCP SEND and RECEIVE commands
 Script usage: `sudo ./tcpsnoop.d`
 
